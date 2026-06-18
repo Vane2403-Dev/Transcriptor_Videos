@@ -1,0 +1,50 @@
+# --- Videos ---
+*.mp4
+*.mkv
+*.avi
+*.mov
+
+# --- Audio ---
+*.mp3
+*.m4a
+*.wav
+*.flac
+
+# --- Transcripciones generadas ---
+*.srt
+*.vtt
+*.txt
+
+# --- Binarios ---
+ffmpeg.exe
+ffprobe.exe
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# --- Entorno virtual ---
+.venv/
+venv/
+env/
+
+# --- Carpetas de datos ---
+por_transcribir/
+transcripciones/
+procesados/
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Sistema ---
+Thumbs.db
+.DS_Store
+
+
